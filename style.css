@@ -24,7 +24,7 @@ body{
 }
 
 h1{
-    color: green;
+    color: aqua;
 }
 
 button{
@@ -34,8 +34,8 @@ button{
     cursor: pointer;
     border: none;
     border-radius: 5px;
-    background-color: green;
-    color: white;
+    background-color: aqua;
+    color: black;
     transition: background-color 0.3s ease;
 }
 button:hover{
